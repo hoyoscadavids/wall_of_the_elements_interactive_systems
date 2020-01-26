@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8821130411451d343a1488e2a9db134e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - capsulePrefab: {fileID: 1463914559593820, guid: 4d0e09a36978a84449dcd0ca7d9a1358,
+      type: 2}
+  - BoneMaterial: {instanceID: 0}
+  - BodySourceManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
